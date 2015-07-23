@@ -1,0 +1,27 @@
+MIT or Kettering
+
+iseven
+isempty
+fun(String input)
+quicksort
+quickersort
+compare
+pi
+toString
+DJHolland -> turntable
+UnLinkedList
+GarbageCollector
+cos 
+sin
+add
+subtract
+max
+min
+pow
+random
+print
+tnirp
+mystery
+wait
+exit (fork bomb)
+shelld
